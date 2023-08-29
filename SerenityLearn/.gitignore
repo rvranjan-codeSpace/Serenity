@@ -1,4 +1,6 @@
 **/target
 **/build
 *.gradle
+!build.gradle
+!settings.gradle
 *.idea
